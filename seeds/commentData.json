@@ -1,0 +1,22 @@
+[
+    {
+      "id":1,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "post_id":4
+    },
+    {
+      "id":2,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "post_id":3
+    },
+    {
+      "id":3,
+        "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "post_id":2
+    },
+    {
+      "id":4,
+        "comment": "Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.",
+        "post_id":1
+    }
+    ]
