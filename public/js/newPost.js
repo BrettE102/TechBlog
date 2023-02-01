@@ -15,6 +15,4 @@ const newPostFormHandler = async (event) => {
     alert(response.statusText);
   }
 };
-document
-  .querySelector("#newPost-form")
-  .addEventListener("submit", newPostFormHandler);
+document.querySelector("#newPost-form").addEventListener("submit", newPostFormHandler);

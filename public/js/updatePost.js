@@ -19,6 +19,4 @@ const editPostFormHandler = async (event) => {
     alert(response.statusText);
   }
 };
-document
-  .querySelector(".editPost-form")
-  .addEventListener("submit", editPostFormHandler);
+document.querySelector(".editPost-form").addEventListener("submit", editPostFormHandler);

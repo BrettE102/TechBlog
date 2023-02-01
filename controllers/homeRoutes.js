@@ -4,7 +4,6 @@ const withAuth = require("../utils/auth");
 
 router.get("/", async (req, res) => {
   try {
-    // Get all posts and JOIN with user data
     const allPost = await Post.findAll({
       attributes: ["id", "title", "content", "date_created"],
       include: [
@@ -14,9 +13,7 @@ router.get("/", async (req, res) => {
         },
       ],
     });
-    // Serialize data so the template can read it
     const post = allPost.map((post) => post.get({ plain: true }));
-    // Pass serialized data and session flag into template
     res.render("homepage", {
       post,
       loggedIn: req.session.loggedIn,
@@ -49,7 +46,6 @@ router.get("/posts/:id", async (req, res) => {
 });
 
 router.get("/login", (req, res) => {
-  // If the user is already logged in, redirect the request to another route
   if (req.session.loggedIn) {
     res.redirect("/");
     return;
