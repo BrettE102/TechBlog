@@ -9,87 +9,81 @@
       "id":2,
       "title": "Quis vel eros donec ac odio. A diam maecenas sed enim ut sem",
       "content": "A diam sollicitudin tempor id eu nisl nunc mi ipsum. ",
-      "user_id": 2
+      "user_id": 4
     },
     {
       "id":3,
         "title": "Vulputate odio ut enim blandit volutpat",
         "content": "Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus.",
-        "user_id": 3
+        "user_id": 5
       },
       {
         "id":4,
         "title": "Et malesuada fames ac turpis egestas sed tempus urna et",
         "content": "Vulputate mi sit amet mauris. Amet dictum sit amet justo donec enim diam.",
-        "user_id": 4
+        "user_id": 3
       },
       {
         "id":5,
         "title": "Dui nunc mattis enim ut tellus elementum sagittis",
         "content": "Eget nunc scelerisque viverra mauris.",
-        "user_id": 5
+        "user_id": 2
       },
       {
         "id":6,
         "title": "Vel risus commodo viverra maecenas",
         "content": "Morbi tincidunt ornare massa eget egestas purus viverra.",
-        "user_id": 6
+        "user_id": 3
       },
       {
         "id":7,
         "title": "Sed egestas egestas fringilla phasellus faucibus",
         "content": "Varius duis at consectetur lorem donec massa sapien faucibus et.",
-        "user_id": 7
+        "user_id": 1
       },
      
       {
         "id":8,
         "title": "Cursus eget nunc scelerisque viverra mauris.",
         "content": "Eu nisl nunc mi ipsum faucibus vitae.",
-        "user_id": 8
+        "user_id": 6
       },
       {
         "id":9,
         "title": "Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris.",
         "content": "Nisl nisi scelerisque eu ultrices vitae auctor.",
-        "user_id": 9
+        "user_id": 5
       },
       {"id":10,
         "title": "Massa placerat duis ultricies lacus sed turpis tincidunt.",
         "content": "Est ullamcorper eget nulla facilisi etiam dignissim.",
-        "user_id": 10
+        "user_id": 4
       },
       {"id":11,
         "title": "Varius duis at consectetur lorem donec massa sapien faucibus et.",
         "content": "Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed.",
-        "user_id": 11
+        "user_id": 4
       },
       {
         "id":12,
         "title": "Eget mauris pharetra et ultrices neque ornare aenean euismod elementum.",
         "content": "Vitae sapien pellentesque habitant morbi tristique senectus et netus et.",
-        "user_id": 12
+        "user_id": 3
       },
       {"id":13,
         "title": "Nisi lacus sed viverra tellus. Sollicitudin aliquam ultrices sagittis orci.",
         "content": "Nunc aliquet bibendum enim facilisis gravida neque.",
-        "user_id": 13
+        "user_id": 2
       },
       {"id":14,
         "title": "Mi quis hendrerit dolor magna eget est lorem ipsum.",
         "content": "Blandit turpis cursus in hac habitasse platea dictumst quisque.",
-        "user_id": 14
+        "user_id": 1
       },
       {"id":15,
         "title": "Porta non pulvinar neque laoreet.",
         "content": "Cursus mattis molestie a iaculis at erat pellentesque adipiscing.",
-        "user_id": 15
-      },
-      {
-        "id":16,
-        "title": "Blandit turpis cursus in hac habitasse platea dictumst quisque.",
-        "content": "Justo donec enim diam vulputate ut.",
-        "user_id": 7
+        "user_id": 6
       },
       {
         "id":17,
